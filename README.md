@@ -1,0 +1,2 @@
+# MSC-Research-project
+This is a repository to store the codes used for my MSc research project. The project title: USING MACHINE LEARNING TO IDENTIFY IMPORTANT OPEN-HOLE LOG MEASUREMENTS FOR OPTIMAL RESERVOIR PROPERTY PREDICTION IN RESERVOIR CHARACTERISATION
